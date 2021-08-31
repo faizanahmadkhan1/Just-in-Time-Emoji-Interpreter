@@ -10,7 +10,8 @@ var emojiDatabase = {
   "😅": "SMILING FACE WITH OPEN MOUTH AND COLD SWEAT",
   "😆": "SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES",
   "😇": "SMILING FACE WITH HALO",
-  "😈": "SMILING FACE WITH HORNS"
+  "😈": "SMILING FACE WITH HORNS",
+  "😘": "Face Throwing a Kiss!"
 };
 
 var emojiArray = Object.keys(emojiDatabase);
